@@ -1,0 +1,15 @@
+C:\Users\19646\source\repos\ModManagerInstall\bin\x86\Debug\ModManagerInstall.exe.config
+C:\Users\19646\source\repos\ModManagerInstall\bin\x86\Debug\ModManagerInstall.exe
+C:\Users\19646\source\repos\ModManagerInstall\bin\x86\Debug\ModManagerInstall.pdb
+C:\Users\19646\source\repos\ModManagerInstall\bin\x86\Debug\dnlib.dll
+C:\Users\19646\source\repos\ModManagerInstall\bin\x86\Debug\FNA.dll
+C:\Users\19646\source\repos\ModManagerInstall\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\19646\source\repos\ModManagerInstall\bin\x86\Debug\FNA.dll.config
+C:\Users\19646\source\repos\ModManagerInstall\obj\x86\Debug\ModManagerInstall.Log.resources
+C:\Users\19646\source\repos\ModManagerInstall\obj\x86\Debug\ModManagerInstall.Properties.Resources.resources
+C:\Users\19646\source\repos\ModManagerInstall\obj\x86\Debug\ModManagerInstall.csproj.GenerateResource.cache
+C:\Users\19646\source\repos\ModManagerInstall\obj\x86\Debug\ModManagerInstall.csproj.CoreCompileInputs.cache
+C:\Users\19646\source\repos\ModManagerInstall\obj\x86\Debug\ModManagerInstall.csproj.CopyComplete
+C:\Users\19646\source\repos\ModManagerInstall\obj\x86\Debug\ModManagerInstall.exe
+C:\Users\19646\source\repos\ModManagerInstall\obj\x86\Debug\ModManagerInstall.pdb
+C:\Users\19646\source\repos\ModManagerInstall\obj\x86\Debug\ModManagerInstall.csprojAssemblyReference.cache
